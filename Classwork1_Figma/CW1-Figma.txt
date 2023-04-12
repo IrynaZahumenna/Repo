@@ -1,0 +1,4 @@
+8 - кнопок
+шрифт у Heider - Circular Std, Roboto
+розмір 700 px
+
