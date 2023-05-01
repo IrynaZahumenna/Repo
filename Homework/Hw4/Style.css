@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/*оформлення заголовку h1*/
+.name {
+    color: green;
+    font-size: 32px;
+}
+/*оформлення div id*/
+#opys {
+    color: grey;
+    font-size: 32px;
+    background-color: yellow;
+    border: 2px solid orange;
+}
+/*оформлення p*/
+.vpered {
+    color: blue;
+}
+/*оформлення span*/
+.text {
+    color: rgb(39, 130, 100);
+    border: 1px dotted pink;
+}
+/*звернення до списку li через посилання a*/
+.pos li a {
+    color: violet;
+    font-size: 26px;
+}
+/*звернення до тегу img*/
+.foto {
+    width: 400px;
+    height: 200px;
+}
+/*оформлення посилання a*/
+.number {
+    color: red;
+}
